@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Given Number in Given Array.cs" />
+    <Compile Include="Output a text based on even odd.cs" />
     <Compile Include="Word based on letter position reverse or same.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
