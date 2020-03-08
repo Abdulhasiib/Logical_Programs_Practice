@@ -14,6 +14,7 @@ namespace LogicalProgramsPractice
     /// </summary>
     class Program
     {
+        
         static void Main(string[] args)
         {
             //User prompt

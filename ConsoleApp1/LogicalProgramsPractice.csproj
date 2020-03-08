@@ -58,6 +58,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Given Number in Given Array.cs" />
     <Compile Include="Word based on letter position reverse or same.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
