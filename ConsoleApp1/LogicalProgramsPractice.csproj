@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp1.Output_a_text_based_on_even_odd</StartupObject>
+    <StartupObject>ConsoleApp1.Divisible_By_3_or_5_or_both_Ternary_operator</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -61,6 +61,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Divisible_By_3_or_5_or_both_Ternary_operator.cs" />
     <Compile Include="Given Number in Given Array.cs" />
     <Compile Include="Output a text based on even odd.cs" />
     <Compile Include="Word based on letter position reverse or same.cs" />
