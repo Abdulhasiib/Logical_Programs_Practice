@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp1.Start_Pyramid</StartupObject>
+    <StartupObject>ConsoleApp1.Leet_01_Two_Sum</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -65,9 +65,11 @@
     <Compile Include="CheckAnagram.cs" />
     <Compile Include="Divisible_By_3_or_5_or_both_Ternary_operator.cs" />
     <Compile Include="Given Number in Given Array.cs" />
+    <Compile Include="Leet_01_Two_Sum.cs" />
     <Compile Include="Output a text based on even odd.cs" />
     <Compile Include="Palindrome_Number.cs" />
     <Compile Include="Pallindrome_String.cs" />
+    <Compile Include="ReversePalindrome.cs" />
     <Compile Include="ReverseString_Array.cs" />
     <Compile Include="Start_Pyramid.cs" />
     <Compile Include="Word based on letter position reverse or same.cs" />
