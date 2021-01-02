@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp1.Leet_1047_Remove_All_Adjacent_Duplicates_Stack</StartupObject>
+    <StartupObject>ConsoleApp1.Leet_1209_Remove_All_Adjacent_Duplicates_String_II</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -70,6 +70,7 @@
     <Compile Include="Leet_09_Palindrome.cs" />
     <Compile Include="Leet_1047_Remove All Adjacent Duplicates in String.cs" />
     <Compile Include="Leet_1047_Remove All Adjacent Duplicates Stack.cs" />
+    <Compile Include="Leet_1209_Remove All Adjacent Duplicates String II.cs" />
     <Compile Include="Leet_13_Roman_To_Numerals.cs" />
     <Compile Include="Leet_14_Longest_common_prefix.cs" />
     <Compile Include="Leet_20_Valid_Parentheses.cs" />
