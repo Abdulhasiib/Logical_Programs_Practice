@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp1.Leet_1209_Remove_All_Adjacent_Duplicates_String_II</StartupObject>
+    <StartupObject>ConsoleApp1.Leet_28_Implement_strStr</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -74,6 +74,7 @@
     <Compile Include="Leet_13_Roman_To_Numerals.cs" />
     <Compile Include="Leet_14_Longest_common_prefix.cs" />
     <Compile Include="Leet_20_Valid_Parentheses.cs" />
+    <Compile Include="Leet_28_Implement_strStr.cs" />
     <Compile Include="Output a text based on even odd.cs" />
     <Compile Include="Palindrome_Number.cs" />
     <Compile Include="Pallindrome_String.cs" />
